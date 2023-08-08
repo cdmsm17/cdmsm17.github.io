@@ -29,15 +29,6 @@
   </url>
   
   <url>
-    <loc>https://cdmsm17.moe/life/games/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://cdmsm17.moe/box/gallery/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -47,7 +38,16 @@
   </url>
   
   <url>
-    <loc>https://cdmsm17.moe/box/nav/index.html</loc>
+    <loc>https://cdmsm17.moe/site/census/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cdmsm17.moe/life/games/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://cdmsm17.moe/site/census/index.html</loc>
+    <loc>https://cdmsm17.moe/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -92,7 +92,25 @@
   </url>
   
   <url>
+    <loc>https://cdmsm17.moe/site/time/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://cdmsm17.moe/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cdmsm17.moe/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -111,24 +129,6 @@
   
   <url>
     <loc>https://cdmsm17.moe/social/link/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://cdmsm17.moe/personal/bb/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://cdmsm17.moe/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     

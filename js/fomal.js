@@ -73,7 +73,7 @@ $.ajax({
   type: 'get',
   url: 'https://apis.map.qq.com/ws/location/v1/ip',
   data: {
-    key: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDPps7oz+jEMZlEJtTrI/GP9XGyUClegsNdRgiioh74m9tudrRU8mkSoudG7uZA0d5+aB93a3DvaKkiUmgQjFjOp4AROCQ3cBbrdJ33DAkobFxnWTva0NaIxxQP2DFmBA08o3vxpCBmYgrIJH1EFmtj66Jf9CUIhOq02A5gJHctFhCS1hNB0wBsBccJczXvPfmiYnriT02WTrU6xAw1StF5+Jv+4upts7cmDxdOZY3ZnR9xH8v379RnV6p6iHt7z8esh/xT/uYCDToDbR2uHu8xhJR71OfK31YejlhBIdsIRel6O09TAzOQX+gRicq7lmVwBa3XVlbAsU/ib/maZKV6SZAd9HTgLjakvY495zRSi11+wzxetkJPBp6H6Gr/UhvFxX49i6TcyWrb9H7gyt9Gi+f6noHMZGZsRnIhBzyNWoYT5WXt9CHyDcxssPwwMTwukw8FHrXfOJGPJjAnmOA1VRNEiqazesBcz9qqPZMdwYmS7qJiPOL3z6AM8lk4fE0= cdmsm17@outlook.com',  
+    key: 'FWUBZ-KID6Z-SEEXM-7RBJD-WMJSH-6HBYD',  
     output: 'jsonp',
   },
   dataType: 'jsonp',
@@ -99,7 +99,7 @@ function getDistance(e1, n1, e2, n2) {
 
 function showWelcome() {
 
-  let dist = getDistance(113.34499552, 23.15537143, ipLoacation.result.location.lng, ipLoacation.result.location.lat); //这里换成自己的经纬度
+  let dist = getDistance(120.640521, 31.30484, ipLoacation.result.location.lng, ipLoacation.result.location.lat); //这里换成自己的经纬度
   let pos = ipLoacation.result.ad_info.nation;
   let ip;
   let posdesc;
@@ -2805,8 +2805,8 @@ function createtime() {
   let currentTimeHtml = "";
   (currentTimeHtml =
     hnum < 18 && hnum >= 9
-      ? `<img class='boardsign' src='https://lskypro.acozycotage.net/Fomalhaut/badge/F小屋-科研摸鱼中.svg' title='什么时候能够实现财富自由呀~'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`
-      : `<img class='boardsign' src='https://lskypro.acozycotage.net/Fomalhaut/badge/F小屋-下班休息啦.svg' title='下班了就该开开心心地玩耍~'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`),
+      ? `<img class='boardsign' src='https://pictures.cdmsm17.moe/imag/ico.ico' title='玉玉了~'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`
+      : `<img class='boardsign' src='https://pictures.cdmsm17.moe/imag/ico.ico' title='摆大烂~'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`),
     document.getElementById("workboard") &&
     (document.getElementById("workboard").innerHTML = currentTimeHtml);
 }

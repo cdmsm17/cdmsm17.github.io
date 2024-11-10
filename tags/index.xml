@@ -2,17 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Koikawa Idol</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://cdmsm17.github.io/tags/</link>
     <description>Recent content in Tags on Koikawa Idol</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jan 1012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cdmsm17.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>http://localhost:1313/tags/test/</link>
-      <pubDate>Wed, 01 Jan 1012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/test/</guid>
+      <title>总结</title>
+      <link>https://cdmsm17.github.io/tags/%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cdmsm17.github.io/tags/%E6%80%BB%E7%BB%93/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>日记</title>
+      <link>https://cdmsm17.github.io/tags/%E6%97%A5%E8%AE%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cdmsm17.github.io/tags/%E6%97%A5%E8%AE%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>月度总结</title>
+      <link>https://cdmsm17.github.io/tags/%E6%9C%88%E5%BA%A6%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cdmsm17.github.io/tags/%E6%9C%88%E5%BA%A6%E6%80%BB%E7%BB%93/</guid>
       <description></description>
     </item>
   </channel>

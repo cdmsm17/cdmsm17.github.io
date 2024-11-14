@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>月度总结 on Koikawa Idol</title>
-    <link>http://localhost:1313/tags/%E6%9C%88%E5%BA%A6%E6%80%BB%E7%BB%93/</link>
-    <description>Recent content in 月度总结 on Koikawa Idol</description>
+    <title>月 on Koikawa Idol</title>
+    <link>http://localhost:1313/tags/%E6%9C%88/</link>
+    <description>Recent content in 月 on Koikawa Idol</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/tags/%E6%9C%88%E5%BA%A6%E6%80%BB%E7%BB%93/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%9C%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>月度总结</title>
+      <title>H22</title>
       <link>http://localhost:1313/posts/%E6%9C%88%E6%80%BB%E7%BB%93/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/%E6%9C%88%E6%80%BB%E7%BB%93/</guid>

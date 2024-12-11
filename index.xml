@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Koikawa Idol</title>
+    <link>https://cdmsm17.github.io/</link>
+    <description>Recent content on Koikawa Idol</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://cdmsm17.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>九大H23自动机</title>
+      <link>https://cdmsm17.github.io/posts/%E4%B9%9D%E5%A4%A7h23%E8%87%AA%E5%8A%A8%E6%9C%BA/%E4%B9%9D%E5%A4%A7h23automaton/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://cdmsm17.github.io/posts/%E4%B9%9D%E5%A4%A7h23%E8%87%AA%E5%8A%A8%E6%9C%BA/%E4%B9%9D%E5%A4%A7h23automaton/</guid>
+      <description>License: CC BY-NC 4.0</description>
+    </item>
+    <item>
+      <title>九大H22自动机</title>
+      <link>https://cdmsm17.github.io/posts/%E4%B9%9D%E5%A4%A7h22%E8%87%AA%E5%8A%A8%E6%9C%BA/%E4%B9%9D%E5%A4%A7h22automaton/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://cdmsm17.github.io/posts/%E4%B9%9D%E5%A4%A7h22%E8%87%AA%E5%8A%A8%E6%9C%BA/%E4%B9%9D%E5%A4%A7h22automaton/</guid>
+      <description>License: CC BY-NC 4.0</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://cdmsm17.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cdmsm17.github.io/about/</guid>
+      <description>关于我 教育 苏州大学 2020/09 - 2024/07&#xA;主修：电子商务&#xA;辅修：计算机科学与技术&#xA;名古屋大学 2025/04 -&#xA;研究科：情报学研究科&#xA;专攻： 情报系统专攻&#xA;研究室：石原&amp;amp;增田研究室&#xA;技能 TOEIC® Listening and Reading test：890&#xA;J.TEST实用日本语检定：835/B level&#xA;Tags 动漫低手 木柜子 白河豚 偶像痴 家里蹲 啃老 尼特 处男&#xA;其他 北宇治字幕组：翻译&#xA;关于本站 使用的头像来自插画/动画原画师 𝐍ⁱⁱⁱ( Fanbox / X )&#xA;本站使用 Hugo 部署在 GitHub Pages 上，并使用经过个性化修改的 m10c 作为本站主题。&#xA;本站都是抄的这位：Cascade（&#xA;关于内容 学习、动画、日常等&#xA;转载许可 除非另行说明，本站所有内容（除代码）均采用 CC BY-NC-SA 4.0 许可证。&#xA;​</description>
+    </item>
+    <item>
+      <title>链接</title>
+      <link>https://cdmsm17.github.io/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cdmsm17.github.io/links/</guid>
+      <description>友链 本站信息 名称：Koikawa Idol/恋川愛戸/愛戸瑠/cdmsm17/Lilja 描述：好人 链接地址：https://cdmsm17.github.io/ 图标：头像 友链请求 您可以通过以下方式申请添加友链：&#xA;在 GitHub 上提交一个新的 Issue 在 GitHub 上修改本站的原代码，并提交一个 Pull Request 直接联系我 申请添加友链需要提供以下信息：&#xA;网站名称 网站链接 网站图标或头像（尺寸至少为 256x256，文档或链接皆可） 描述（可选） 此外，如果您选择提交 Pull Request，则网站图标或头像应为 WebP 格式。</description>
+    </item>
+  </channel>
+</rss>

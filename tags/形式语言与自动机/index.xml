@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>自动机 on Koikawa Idol</title>
-    <link>https://cdmsm17.github.io/tags/%E8%87%AA%E5%8A%A8%E6%9C%BA/</link>
-    <description>Recent content in 自动机 on Koikawa Idol</description>
+    <title>形式语言与自动机 on Koikawa Idol</title>
+    <link>https://cdmsm17.github.io/tags/%E5%BD%A2%E5%BC%8F%E8%AF%AD%E8%A8%80%E4%B8%8E%E8%87%AA%E5%8A%A8%E6%9C%BA/</link>
+    <description>Recent content in 形式语言与自动机 on Koikawa Idol</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cdmsm17.github.io/tags/%E8%87%AA%E5%8A%A8%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://cdmsm17.github.io/tags/%E5%BD%A2%E5%BC%8F%E8%AF%AD%E8%A8%80%E4%B8%8E%E8%87%AA%E5%8A%A8%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>九大H24自动机</title>
+      <link>https://cdmsm17.github.io/posts/%E4%B9%9D%E5%A4%A7h24automaton/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://cdmsm17.github.io/posts/%E4%B9%9D%E5%A4%A7h24automaton/</guid>
+      <description>License: CC BY-NC 4.0</description>
+    </item>
     <item>
       <title>九大H23自动机</title>
       <link>https://cdmsm17.github.io/posts/%E4%B9%9D%E5%A4%A7h23automaton/</link>
